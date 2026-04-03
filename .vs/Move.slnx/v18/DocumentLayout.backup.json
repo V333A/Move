@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{5260AC35-15C0-46A1-8EDC-12EA23108069}|Move\\Move.vcxproj|solutionrelative:Move\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5260AC35-15C0-46A1-8EDC-12EA23108069}|Move\\Move.vcxproj|C:\\Users\\User\\source\\repos\\Move\\Move\\MyArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5260AC35-15C0-46A1-8EDC-12EA23108069}|Move\\Move.vcxproj|solutionrelative:Move\\MyArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5260AC35-15C0-46A1-8EDC-12EA23108069}|Move\\Move.vcxproj|C:\\Users\\User\\source\\repos\\Move\\Move\\MyArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5260AC35-15C0-46A1-8EDC-12EA23108069}|Move\\Move.vcxproj|solutionrelative:Move\\MyArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5260AC35-15C0-46A1-8EDC-12EA23108069}|Move\\Move.vcxproj|C:\\Users\\User\\source\\repos\\Move\\Move\\MyString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5260AC35-15C0-46A1-8EDC-12EA23108069}|Move\\Move.vcxproj|solutionrelative:Move\\MyString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5260AC35-15C0-46A1-8EDC-12EA23108069}|Move\\Move.vcxproj|C:\\Users\\User\\source\\repos\\Move\\Move\\MyString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5260AC35-15C0-46A1-8EDC-12EA23108069}|Move\\Move.vcxproj|solutionrelative:Move\\MyString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5260AC35-15C0-46A1-8EDC-12EA23108069}|Move\\Move.vcxproj|C:\\Users\\User\\source\\repos\\Move\\Move\\MyString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5260AC35-15C0-46A1-8EDC-12EA23108069}|Move\\Move.vcxproj|solutionrelative:Move\\MyString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5260AC35-15C0-46A1-8EDC-12EA23108069}|Move\\Move.vcxproj|C:\\Users\\User\\source\\repos\\Move\\Move\\MyArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5260AC35-15C0-46A1-8EDC-12EA23108069}|Move\\Move.vcxproj|solutionrelative:Move\\MyArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5260AC35-15C0-46A1-8EDC-12EA23108069}|Move\\Move.vcxproj|C:\\Users\\User\\source\\repos\\Move\\Move\\MyArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5260AC35-15C0-46A1-8EDC-12EA23108069}|Move\\Move.vcxproj|solutionrelative:Move\\MyArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MyArray.h",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Move\\Move\\MyArray.h",
               "RelativeDocumentMoniker": "Move\\MyArray.h",
@@ -46,38 +46,37 @@
               "RelativeToolTip": "Move\\MyArray.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-03T11:55:05.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-03T11:55:05.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "MyString.h",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Move\\Move\\MyString.h",
               "RelativeDocumentMoniker": "Move\\MyString.h",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Move\\Move\\MyString.h",
               "RelativeToolTip": "Move\\MyString.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-04-03T11:54:11.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MyString.cpp",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Move\\Move\\MyString.cpp",
               "RelativeDocumentMoniker": "Move\\MyString.cpp",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Move\\Move\\MyString.cpp",
               "RelativeToolTip": "Move\\MyString.cpp",
-              "ViewState": "AgIAADUAAAAAAAAAAAAiwFgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-03T11:53:43.988Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MyArray.cpp",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Move\\Move\\MyArray.cpp",
               "RelativeDocumentMoniker": "Move\\MyArray.cpp",
@@ -96,7 +95,7 @@
               "RelativeDocumentMoniker": "Move\\main.cpp",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Move\\Move\\main.cpp",
               "RelativeToolTip": "Move\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-03T11:52:46.767Z",
               "EditorCaption": ""
